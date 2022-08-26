@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stars
+  - Rock
+  - MovingRock
+  - Prize
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 421590053
+    locked: 0
+  - name: Stars
+    uniqueID: 289243965
+    locked: 0
+  - name: RockPath
+    uniqueID: 709774551
+    locked: 0
+  - name: Prize
+    uniqueID: 2869380109
+    locked: 0
+  - name: Playground
+    uniqueID: 3588586605
+    locked: 0
